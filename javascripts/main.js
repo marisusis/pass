@@ -1,1 +1,7 @@
-console.log('This would be the main JS file.');
+prompt("Enter password") = var pass;
+if (pass === "maris") {
+  console.log("hi");
+}
+else {
+  console.log("bye");
+}
